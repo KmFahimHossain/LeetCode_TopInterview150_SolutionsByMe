@@ -1,5 +1,4 @@
 #include <iostream>
-#include <vector>
 using namespace std;
 
 // Problem statement - https://leetcode.com/problems/is-subsequence/description/
